@@ -1,6 +1,0 @@
-C:\Users\Roman\Documents\Visual Studio 2015\Projects\DesignPatterns - C# - Head First\Chapter 1\bin\Debug\Chapter 1.exe.config
-C:\Users\Roman\Documents\Visual Studio 2015\Projects\DesignPatterns - C# - Head First\Chapter 1\bin\Debug\Chapter 1.exe
-C:\Users\Roman\Documents\Visual Studio 2015\Projects\DesignPatterns - C# - Head First\Chapter 1\bin\Debug\Chapter 1.pdb
-C:\Users\Roman\Documents\Visual Studio 2015\Projects\DesignPatterns - C# - Head First\Chapter 1\obj\Debug\Chapter 1.csprojResolveAssemblyReference.cache
-C:\Users\Roman\Documents\Visual Studio 2015\Projects\DesignPatterns - C# - Head First\Chapter 1\obj\Debug\Chapter 1.exe
-C:\Users\Roman\Documents\Visual Studio 2015\Projects\DesignPatterns - C# - Head First\Chapter 1\obj\Debug\Chapter 1.pdb
